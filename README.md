@@ -2,7 +2,7 @@
 
 - Run `yarn create next-app --typescript` to create a new application
 
-- Follow (tailwind instructions)[https://tailwindcss.com/docs/guides/nextjs] to install tailwind
+- Follow [tailwind instructions](https://tailwindcss.com/docs/guides/nextjs) to install tailwind
 
 - Change background color to `red` in `globals.css`
 
