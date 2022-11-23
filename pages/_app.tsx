@@ -6,8 +6,9 @@ import { wallets } from "@cosmos-kit/keplr"
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-    <WalletProvider wallets={wallets} chains={chains} assetLists={assets}>
-      <Component {...pageProps} />
-    </WalletProvider>
+    // <WalletProvider wallets={wallets} chains={chains} assetLists={assets}>
+    //   <Component {...pageProps} />
+    // </WalletProvider>
+    <Component {...pageProps} />
   )
 }
